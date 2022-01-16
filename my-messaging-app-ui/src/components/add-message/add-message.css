@@ -1,0 +1,39 @@
+.add-message {
+    padding: 15px;
+    border-radius: 5px;
+    background-color: white;
+    margin: 15px 0;
+    position: relative;
+    height: 260px;
+}
+
+.input-filed {
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.input-filed > input {
+    width: 85vw;
+    border-radius: 5px;
+    border: 1px solid rgb(247, 247, 247);
+    outline: none;
+    padding: 10px;
+}
+
+.input-filed.content {
+    height: 80px;
+}
+
+.send-btn {
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(113, 136, 179);
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    box-shadow: 8px 8px 18px black;
+    position: absolute;
+    right: 15px;
+    bottom: 10px;
+}

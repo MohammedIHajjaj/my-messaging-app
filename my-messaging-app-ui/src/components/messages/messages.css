@@ -1,0 +1,24 @@
+.message {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 15px 0;
+}
+
+.message .section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.toggle-btn {
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(113, 136, 179);
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    box-shadow: 8px 8px 18px black;
+}

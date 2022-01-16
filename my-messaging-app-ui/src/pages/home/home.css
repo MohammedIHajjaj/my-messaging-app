@@ -1,0 +1,17 @@
+.home {
+    margin: 0;
+    padding: 15px;
+    background-color: rgb(235, 238, 243);
+    height: 100%;
+    width: 100%;
+}
+
+.show-btn {
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(113, 136, 179);
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    box-shadow: 5px 5px 6px yellow;
+}
